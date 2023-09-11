@@ -8,8 +8,8 @@ This is a REST API with basic CRUD operation. It is built with Laravel 10 and My
 - [Usage](#usage)
 - [Error Handling](#error-handling)
 - [Testing](#testing)
-- [License](#license)
 - [UML Diagram](#uml-diagram)
+- [License](#license)
 
 ## Installation
 - Create a folder for the project and clone the repository into the folder.
@@ -38,6 +38,7 @@ This is a REST API with basic CRUD operation. It is built with Laravel 10 and My
 
 ## Usage
 - Base URL: http://localhost:8000
+- Detailed documentation of the API can be found here: [API Documentation](DOCUMENTATION.md)
 
 ### Add a new person.
 
