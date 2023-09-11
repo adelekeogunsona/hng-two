@@ -1,10 +1,5 @@
 # REST API with Basic CRUD Operation
 
-<p align="left">
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
-## Description
 This is a REST API with basic CRUD operation. It is built with Laravel 10 and MySQL 8.0.30. It is a simple API that can be used to create, read, update and delete 'person' resource.
 
 ## Table of Contents
@@ -149,8 +144,11 @@ Content-Type: application/json
 
     [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/27453333-98cba097-2f3c-4bb6-92bd-99da33f5fd9e?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D27453333-98cba097-2f3c-4bb6-92bd-99da33f5fd9e%26entityType%3Dcollection%26workspaceId%3D377a6ae1-5702-4db6-82b4-c3e7c002ac52)
 
+## UML Diagram
+![UML Diagram](public/images/UML-Person.jpg)
+
 ## License
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-## UML Diagram
-![UML Diagram](https://user-images.githubusercontent.com/)
+<p align="left">
+<img src="https://img.shields.io/packagist/l/laravel/framework" alt="License">
+</p>
